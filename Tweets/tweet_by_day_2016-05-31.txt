@@ -1,0 +1,2 @@
+  1       Oracle Nederland             Tue May 31 10:52:04 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+  2           Oracle BeLux             Tue May 31 10:52:04 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0

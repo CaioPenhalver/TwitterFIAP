@@ -1,0 +1,17 @@
+  1        Jacek Laskowski             Fri May 27 18:19:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  2           Stuart Marks             Fri May 27 15:57:20 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+  3         Bruno Baptista             Fri May 27 11:29:42 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  4    양수열(Soo yeol, Yang)             Fri May 27 10:22:35 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+  5    양수열(Soo yeol, Yang)             Fri May 27 10:21:40 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  6           Steve NDENDE             Fri May 27 10:12:03 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  7                javabot             Fri May 27 09:56:54 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  8          mySolutionsCL             Fri May 27 09:41:01 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+  9             pmvaishnav             Fri May 27 09:38:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 10     Programming Review             Fri May 27 09:37:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 11                   Java             Fri May 27 09:37:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 12         Abhishek Gupta             Fri May 27 04:49:51 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 13       Oracle Nederland             Fri May 27 03:50:03 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 14           Oracle BeLux             Fri May 27 03:50:03 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 15           Bruno Borges             Fri May 27 02:56:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 16          SPOUG - CUORE             Fri May 27 02:43:38 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 17                   Andy             Fri May 27 01:59:56 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25

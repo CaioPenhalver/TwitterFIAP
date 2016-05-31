@@ -1,0 +1,20 @@
+  1           Amelia Eiras             Thu May 26 20:55:41 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  2     Riyan As Samarindy             Thu May 26 20:48:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  3     David Heffelfinger             Thu May 26 20:30:29 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+  4      BraziliansWhoCode             Thu May 26 19:48:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  5          Linda Bronson             Thu May 26 19:46:03 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  6    Leonardo Rocha Lima             Thu May 26 19:43:47 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  7      Cesar A. Nogueira             Thu May 26 19:34:56 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  8          Anton Arhipov             Thu May 26 19:31:18 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+  9     JavaOne Conference             Thu May 26 19:20:01 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:   25
+ 10         javamonster.de             Thu May 26 14:12:02 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 11            Juan Moreno             Thu May 26 11:42:55 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 12      Atharillah Alifka             Thu May 26 08:40:49 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 13            Faiz Bashir             Thu May 26 08:36:42 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 14    vlsaittrainingservi             Thu May 26 05:01:17 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 15     Deepak Lalchandani             Thu May 26 04:26:49 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 16                  ジャバ仙人             Thu May 26 00:40:40 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   28
+ 17              L.B.  ++®             Thu May 26 23:04:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    4
+ 18          David Brandon             Thu May 26 23:03:07 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    4
+ 19     Jonathan S. Fisher             Thu May 26 21:51:32 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 20           Dan Heidinga             Thu May 26 21:18:52 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25

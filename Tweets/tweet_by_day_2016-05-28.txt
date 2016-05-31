@@ -1,0 +1,22 @@
+  1           Victor Lopez             Sat May 28 18:43:00 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+  2     YV RaviKumar (OCM)             Sat May 28 17:38:54 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+  3      Mikalai Alimenkou             Sat May 28 16:45:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  4          Anton Arhipov             Sat May 28 16:44:20 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  5       Kamran Agayev A.             Sat May 28 16:38:11 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+  6             DIT_DT036A             Sat May 28 16:31:16 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    3
+  7             Pavankumar             Sat May 28 16:09:27 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+  8    MySQL Certification             Sat May 28 15:00:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+  9      Solaris Certified             Sat May 28 15:00:13 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 10   Oracle Certification             Sat May 28 15:00:13 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    6
+ 11     Java Certification             Sat May 28 15:00:12 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    3
+ 12      Siamak S. Zangené             Sat May 28 00:57:19 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 13            Domain_Jane             Sat May 28 00:56:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+ 14      Siamak S. Zangené             Sat May 28 00:54:55 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+ 15      Siamak S. Zangené             Sat May 28 00:54:44 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 16      Siamak S. Zangené             Sat May 28 00:54:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 17      Siamak S. Zangené             Sat May 28 00:53:49 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 18      Siamak S. Zangené             Sat May 28 00:53:42 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 19      Siamak S. Zangené             Sat May 28 00:53:33 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 20      Siamak S. Zangené             Sat May 28 00:53:22 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 21      Siamak S. Zangené             Sat May 28 00:52:24 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 22      Siamak S. Zangené             Sat May 28 00:51:28 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
