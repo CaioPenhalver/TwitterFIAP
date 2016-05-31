@@ -22,21 +22,7 @@ public class TweetController {
 	private Twitter twitter;
 	private List<Tweets> tweetByDay;
 	 
-	/*MY TWiTTER
-	 * Consumer Key (API Key)	AqXyVyDaSn3VwtiP77XHB1Iuz
-	 * Consumer Secret (API Secret)	gtux10lpCtsaP3G1DInn1lKBCY6RUTeKaiMYIKLsEsCmrVZ6mN
-	 * 
-	 * Access Token	36113252-AlmbatgQcSURzD8yOaH7KcARukORmhJgLZlD5snR1
-	 * Access Token Secret	x9mRi8huoeNoz3aYQ0FxKnCH4wzx1RxoY1BxUK72E1OEh
-	 */
 	
-	/*FIAP
-	 * Consumer Key:	3QRfILThjzQslxSRLps8u3tDv
-	 * Consumer Secret:	exr4sElb7yLxXomoqNyo9aDLc29FoTnnAfia8c34Nzv1V4p5ED
-	 * 
-	 * Access Token:	729051384688066560-mR8PP2fslrG0fRCen6QYWhQ1gpTFcV2
-	 * Access Token Secret:	iv8Nl75gAw0smCSMdVmlwGXViMMpD6VeEgNeAn7btFqIs
-	 */
 	public void searchBy(String word){
 		TwitterService twitterService = TwitterService.getConnection(
 				"3QRfILThjzQslxSRLps8u3tDv", "exr4sElb7yLxXomoqNyo9aDLc29FoTnnAfia8c34Nzv1V4p5ED");
