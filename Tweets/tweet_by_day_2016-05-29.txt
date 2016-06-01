@@ -6,3 +6,7 @@
   6                jbaruch             Sun May 29 01:43:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
   7            Dhanya Manu             Sun May 29 00:05:33 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    3
   8            Dhanya Manu             Sun May 29 00:05:31 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+  9    Adventure Time Team             Sun May 29 22:42:41 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+ 10      Matias x Valdivia             Sun May 29 21:43:57 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+ 11    Adventure Time Team             Sun May 29 21:43:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+ 12    Adventure Time Team             Sun May 29 21:30:46 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0

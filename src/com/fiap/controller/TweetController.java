@@ -22,13 +22,12 @@ public class TweetController {
 	private Twitter twitter;
 	private List<Tweets> tweetByDay;
 	 
-	
 	public void searchBy(String word){
 		TwitterService twitterService = TwitterService.getConnection(
-				"3QRfILThjzQslxSRLps8u3tDv", "exr4sElb7yLxXomoqNyo9aDLc29FoTnnAfia8c34Nzv1V4p5ED");
+				" Consumer Key ", " Consumer Secret ");
 		try {
 			twitter = twitterService.userAuthentication(
-					"729051384688066560-mR8PP2fslrG0fRCen6QYWhQ1gpTFcV2", "iv8Nl75gAw0smCSMdVmlwGXViMMpD6VeEgNeAn7btFqIs");
+					" Access Token ", " Access Token Secret ");
 		
 			TweetSearch tweetSearch = new TweetSearch(twitter);
 			tweets = tweetSearch.getTweetsFromTheLast7days(word);

@@ -1,0 +1,1 @@
+  1           Eduardo Test             Sat May 28 19:27:58 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0

@@ -31,7 +31,7 @@ public class App {
 		
 		List<String> messages = new ArrayList<>();
 		
-		String professor = "@Penhalver";
+		String professor = "@michelpf";
 		StringBuilder firstMessage = new StringBuilder()
 				.append(professor)
 				.append(". Last Week: ")

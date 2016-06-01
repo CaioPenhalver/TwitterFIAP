@@ -1,0 +1,120 @@
+  1           Ilyas Yambay             Wed May 25 20:26:28 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  2                 Dirugu             Wed May 25 18:41:02 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  3           Bruno Borges             Wed May 25 16:28:54 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  4       Profesor de Java             Wed May 25 15:32:18 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+  5              Toto Titi             Wed May 25 15:29:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  6            Elia Rohana             Wed May 25 15:22:20 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  7            Dierk König             Wed May 25 15:12:34 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  8       Julio Yáñez Novo             Wed May 25 15:08:37 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+  9     Brijesh Srivastava             Wed May 25 15:03:16 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 10      Cesar A. Nogueira             Wed May 25 14:28:31 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 11            Ivan Krylov             Wed May 25 14:15:47 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 12      BraziliansWhoCode             Wed May 25 14:13:34 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 13                javabot             Wed May 25 14:12:33 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 14                   Java             Wed May 25 14:09:38 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 15          Java Magazine             Wed May 25 14:09:38 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 16           Andreas Falk             Wed May 25 14:08:03 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 17     JavaOne Conference             Wed May 25 14:07:34 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:   31
+ 18           Miguel A∘P∘C             Wed May 25 13:38:23 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 19            Bruno Souza             Wed May 25 12:06:25 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 20           Luis Andrade             Wed May 25 11:13:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 21           breno pessoa             Wed May 25 10:57:52 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 22                  Elena             Wed May 25 10:18:05 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 23                javabot             Wed May 25 10:13:23 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 24                  Monah             Wed May 25 10:10:16 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 25     Programming Review             Wed May 25 10:04:06 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 26                   Java             Wed May 25 10:03:28 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 27        John Borg Jacob             Wed May 25 07:13:26 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 28           LeadBenefits             Wed May 25 04:15:16 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 29               Carolina             Wed May 25 01:57:29 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   16
+ 30    Leonardo Rocha Lima             Tue May 24 22:33:28 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 31           Amelia Eiras             Thu May 26 20:55:41 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 32     Riyan As Samarindy             Thu May 26 20:48:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 33     David Heffelfinger             Thu May 26 20:30:29 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 34      BraziliansWhoCode             Thu May 26 19:48:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 35          Linda Bronson             Thu May 26 19:46:03 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 36    Leonardo Rocha Lima             Thu May 26 19:43:47 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 37      Cesar A. Nogueira             Thu May 26 19:34:56 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 38          Anton Arhipov             Thu May 26 19:31:18 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 39     JavaOne Conference             Thu May 26 19:20:01 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:   25
+ 40         javamonster.de             Thu May 26 14:12:02 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 41            Juan Moreno             Thu May 26 11:42:55 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 42      Atharillah Alifka             Thu May 26 08:40:49 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 43            Faiz Bashir             Thu May 26 08:36:42 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 44    vlsaittrainingservi             Thu May 26 05:01:17 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 45     Deepak Lalchandani             Thu May 26 04:26:49 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 46                  ジャバ仙人             Thu May 26 00:40:40 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   28
+ 47              GlassFish             Wed May 25 23:57:51 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 48     Andriy Plokhotnyuk             Wed May 25 21:29:18 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 49        Jacek Laskowski             Fri May 27 18:19:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 50           Stuart Marks             Fri May 27 15:57:20 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 51         Bruno Baptista             Fri May 27 11:29:42 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 52    양수열(Soo yeol, Yang)             Fri May 27 10:22:35 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   14
+ 53    양수열(Soo yeol, Yang)             Fri May 27 10:21:40 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 54           Steve NDENDE             Fri May 27 10:12:03 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 55                javabot             Fri May 27 09:56:54 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 56          mySolutionsCL             Fri May 27 09:41:01 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 57             pmvaishnav             Fri May 27 09:38:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 58     Programming Review             Fri May 27 09:37:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 59                   Java             Fri May 27 09:37:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 60         Abhishek Gupta             Fri May 27 04:49:51 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 61       Oracle Nederland             Fri May 27 03:50:03 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 62           Oracle BeLux             Fri May 27 03:50:03 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 63           Bruno Borges             Fri May 27 02:56:22 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 64          SPOUG - CUORE             Fri May 27 02:43:38 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 65                   Andy             Fri May 27 01:59:56 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 66              L.B.  ++®             Thu May 26 23:04:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    4
+ 67          David Brandon             Thu May 26 23:03:07 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    4
+ 68     Jonathan S. Fisher             Thu May 26 21:51:32 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 69           Dan Heidinga             Thu May 26 21:18:52 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 70           Victor Lopez             Sat May 28 18:43:00 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+ 71     YV RaviKumar (OCM)             Sat May 28 17:38:54 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+ 72      Mikalai Alimenkou             Sat May 28 16:45:12 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 73          Anton Arhipov             Sat May 28 16:44:20 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 74       Kamran Agayev A.             Sat May 28 16:38:11 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+ 75             DIT_DT036A             Sat May 28 16:31:16 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    3
+ 76             Pavankumar             Sat May 28 16:09:27 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+ 77    MySQL Certification             Sat May 28 15:00:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+ 78      Solaris Certified             Sat May 28 15:00:13 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 79   Oracle Certification             Sat May 28 15:00:13 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    6
+ 80     Java Certification             Sat May 28 15:00:12 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    3
+ 81      Siamak S. Zangené             Sat May 28 00:57:19 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 82            Domain_Jane             Sat May 28 00:56:58 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+ 83      Siamak S. Zangené             Sat May 28 00:54:55 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+ 84      Siamak S. Zangené             Sat May 28 00:54:44 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 85      Siamak S. Zangené             Sat May 28 00:54:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 86      Siamak S. Zangené             Sat May 28 00:53:49 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 87      Siamak S. Zangené             Sat May 28 00:53:42 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 88      Siamak S. Zangené             Sat May 28 00:53:33 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 89      Siamak S. Zangené             Sat May 28 00:53:22 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 90      Siamak S. Zangené             Sat May 28 00:52:24 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 91      Siamak S. Zangené             Sat May 28 00:51:28 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 92          Petru Flueras             Sun May 29 17:37:47 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 93      Mahir M. Quluzade             Sun May 29 17:23:52 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+ 94                 Techly             Sun May 29 09:53:08 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+ 95           Peter Lawrey             Sun May 29 05:34:39 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   25
+ 96                 C0rWin             Sun May 29 02:50:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 97                jbaruch             Sun May 29 01:43:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+ 98            Dhanya Manu             Sun May 29 00:05:33 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    3
+ 99            Dhanya Manu             Sun May 29 00:05:31 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    6
+100           Luis Andrade             Mon May 30 16:06:25 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:   31
+101           Victor Lopez             Mon May 30 13:02:47 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+102           Victor Lopez             Mon May 30 13:02:27 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    4
+103           Victor Lopez             Mon May 30 13:02:15 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    3
+104       Michel Fernandes             Mon May 30 08:15:46 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+105    Adventure Time Team             Sun May 29 22:42:41 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+106      Matias x Valdivia             Sun May 29 21:43:57 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+107    Adventure Time Team             Sun May 29 21:43:14 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+108    Adventure Time Team             Sun May 29 21:30:46 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+109            Takashi Ito             Tue May 31 20:37:19 BRT 2016 isRetweet:  true isRetweeted:     false getRetweetCount:    1
+110     JavaOne Conference             Tue May 31 20:10:57 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    1
+111           Jeff Dinkins             Tue May 31 14:06:22 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+112    Adventure Time Team             Tue May 31 12:44:38 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+113    Adventure Time Team             Tue May 31 12:44:38 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+114    Adventure Time Team             Tue May 31 12:44:38 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+115    Adventure Time Team             Tue May 31 12:44:37 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+116    Adventure Time Team             Tue May 31 12:44:37 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+117    Adventure Time Team             Tue May 31 12:44:37 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+118    Adventure Time Team             Tue May 31 12:44:36 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+119       Oracle Nederland             Tue May 31 10:52:04 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0
+120           Oracle BeLux             Tue May 31 10:52:04 BRT 2016 isRetweet: false isRetweeted:     false getRetweetCount:    0

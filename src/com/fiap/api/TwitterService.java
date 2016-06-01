@@ -6,13 +6,6 @@ import twitter4j.auth.AccessToken;
 import twitter4j.conf.Configuration;
 import twitter4j.conf.ConfigurationBuilder;
 
-/*
- * Consumer Key:	3QRfILThjzQslxSRLps8u3tDv
- * Consumer Secret:	exr4sElb7yLxXomoqNyo9aDLc29FoTnnAfia8c34Nzv1V4p5ED
- * 
- * Access Token:	729051384688066560-mR8PP2fslrG0fRCen6QYWhQ1gpTFcV2
- * Access Token Secret:	iv8Nl75gAw0smCSMdVmlwGXViMMpD6VeEgNeAn7btFqIs
- */
 
 public class TwitterService {
 

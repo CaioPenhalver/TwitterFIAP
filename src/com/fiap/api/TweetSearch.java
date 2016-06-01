@@ -73,7 +73,8 @@ public class TweetSearch {
 
 		} catch (TwitterException e) {
 			System.out.println(
-					"Sorry about that! \nGive it a try again in 15 minutes. \nThe Twitter API has a search rate limited at 180 queries per 15 minute window!");
+				"Sorry about that! \nGive it a try again in 15 minutes. "
+				+ "\nThe Twitter API has a search rate limited at 180 queries per 15 minute window!");
 			e.printStackTrace(); 
 		}
 	}
@@ -83,7 +84,8 @@ public class TweetSearch {
 			return;
 		}else {
 			System.out.println(
-					"Sorry about that! \nYou have to wait 15 minutes. \nThe Twitter API has a search rate limited at 180 queries per 15 minute window!");
+					"Sorry about that! \nYou have to wait 15 minutes. "
+					+ "\nThe Twitter API has a search rate limited at 180 queries per 15 minute window!");
 			try {
 				wait(930_000);
 				counter = 0;
@@ -99,7 +101,11 @@ public class TweetSearch {
 		
 		for(LocalDate day : days){
 			List<Status> tweetList = tweets.stream().filter(tweet -> {	
-				return tweet.getCreatedAt().toInstant().atZone(ZoneId.systemDefault()).toLocalDate().equals(day);
+				return tweet.getCreatedAt()
+						.toInstant()
+						.atZone(ZoneId.systemDefault())
+						.toLocalDate()
+						.equals(day);
 			}).collect(Collectors.toList());
 			//System.out.println(day+"  "+tweetList.size());
 			
